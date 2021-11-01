@@ -1,9 +1,9 @@
 <?php
 class User {
 
-    var $host = "localhost";
-	var $uname = "root";
-	var $pass = "password";
+    var $host = "10.0.0.245";
+	var $uname = "admin";
+	var $pass = "Mysql@password123";
     var $db = "management_kost";
     var $connect = "";
  
