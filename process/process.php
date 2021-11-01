@@ -30,7 +30,7 @@ switch ($aksi) {
 
         if(in_array($ekstensi, $ekstensi_diperbolehkan) === true){
             if($ukuran < 1044070){			
-                move_uploaded_file($file_tmp, '../assets/images/kamar/'.$nama);
+                move_uploaded_file($file_tmp, 'https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fkamar%2F'.$nama);
                 $kamar->insert($_POST['name'], $_POST['tipe'], $nama);
                 if($query){
                     echo 'FILE BERHASIL DI UPLOAD';

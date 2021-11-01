@@ -12,10 +12,10 @@
 	<meta name="keywords" content="">
 	<meta name="author" content="Phoenixcoded" />
 	<!-- Favicon icon -->
-	<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Ffavicon.ico" type="image/x-icon">
 
 	<!-- vendor css -->
-	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fcss%2Fstyle.css">
 	
 </head>
 
@@ -26,7 +26,7 @@
 			<div class="row align-items-center text-center">
 				<div class="col-md-12">
 					<div class="card-body">
-						<img src="assets/images/logo-mykost-dark2.png" width="200px" height="30px"  alt="" class="img-fluid mb-4">
+						<img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Flogo-mykost-dark2.png" width="200px" height="30px"  alt="" class="img-fluid mb-4">
                         <h4 class="mb-3 f-w-400">Sign up</h4>
                         <form action="process/process.php?aksi=tambah_user" method="POST">
                             <div class="form-group mb-3">
@@ -53,10 +53,10 @@
 <!-- [ auth-signup ] end -->
 
 <!-- Required Js -->
-<script src="assets/js/vendor-all.min.js"></script>
-<script src="assets/js/plugins/bootstrap.min.js"></script>
-<script src="assets/js/ripple.js"></script>
-<script src="assets/js/pcoded.min.js"></script>
+<script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fvendor-all.min.js"></script>
+<script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fplugins%2Fbootstrap.min.js"></script>
+<script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fripple.js"></script>
+<script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fpcoded.min.js"></script>
 
 </body>
 

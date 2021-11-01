@@ -14,15 +14,15 @@ include '../process/koneksi.php';
     <meta name="keywords" content="">
     <meta name="author" content="Phoenixcoded" />
     <!-- Favicon icon -->
-    <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Ffavicon.ico" type="image/x-icon">
     <!-- vendor css -->
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fcss%2Fstyle.css">
     <!-- DataTables -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
     <!-- Select2 -->
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
     <!-- summernote -->
-    <link rel="stylesheet" href="../assets/plugins/summernote/summernote-bs4.css">
+    <link rel="stylesheet" href="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fplugins%2Fsummernote%2Fsummernote-bs4.css">
 </head>
 <body class="">
 	<!-- [ Pre-loader ] start -->
@@ -159,10 +159,10 @@ include '../process/koneksi.php';
     ?>
 
     <!-- Required Js -->
-    <script src="../assets/js/vendor-all.min.js"></script>
-    <script src="../assets/js/plugins/bootstrap.min.js"></script>
-    <script src="../assets/js/ripple.js"></script>
-    <script src="../assets/js/pcoded.min.js"></script>
+    <script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fvendor-all.min.js"></script>
+    <script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fplugins%2Fbootstrap.min.js"></script>
+    <script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fripple.js"></script>
+    <script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fjs%2Fpcoded.min.js"></script>
 
     <!-- DataTables -->
     <script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
@@ -183,7 +183,7 @@ include '../process/koneksi.php';
     </script>
 
     <!-- Summernote -->
-    <script src="../assets/plugins/summernote/summernote-bs4.min.js"></script>
+    <script src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fplugins%2Fsummernote%2Fsummernote-bs4.min.js"></script>
     <script>
     $(function () {
         // Summernote

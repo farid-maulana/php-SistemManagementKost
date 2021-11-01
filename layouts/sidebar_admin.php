@@ -3,7 +3,7 @@
         <div class="navbar-content scroll-div " >
             <div class="">
                 <div class="main-menu-header">
-                    <img class="img-radius" src="../assets/images/user/avatar-2.jpg" alt="User-Profile-Image">
+                    <img class="img-radius" src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-2.jpg" alt="User-Profile-Image">
                     <div class="user-details">
                         <div id="more-details">Admin <i class="fa fa-caret-down"></i></div>
                     </div>

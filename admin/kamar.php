@@ -114,7 +114,7 @@ $tampil_kamar = $kamar->tampilKamar();
                                                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                                         </div>
                                                         <div class="modal-body">
-                                                            <img src="../assets/images/kamar/<?php echo $kmr['room_img']; ?>" alt="" class="img-fluid">
+                                                            <img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fkamar%2F<?php echo $kmr['room_img']; ?>" alt="" class="img-fluid">
                                                         </div>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn  btn-secondary" data-dismiss="modal">Close</button>

@@ -3,8 +3,8 @@
         <a class="mobile-menu" id="mobile-collapse" href="#!"><span></span></a>
         <a href="#!" class="b-brand">
             <!-- ========   change your logo hear   ============ -->
-            <img src="../assets/images/logo-mykost.png" alt="" class="logo" style="width: 120px; height: 48px">
-            <img src="../assets/images/logo-icon.png" alt="" class="logo-thumb">
+            <img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Flogo-mykost.png" alt="" class="logo" style="width: 120px; height: 48px">
+            <img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Flogo-icon.png" alt="" class="logo-thumb">
         </a>
         <a href="#!" class="mob-toggler">
             <i class="feather icon-more-vertical"></i>
@@ -40,7 +40,7 @@
                             </li>
                             <li class="notification">
                                 <div class="media">
-                                    <img class="img-radius" src="../assets/images/user/avatar-1.jpg" alt="Generic placeholder image">
+                                    <img class="img-radius" src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-1.jpg" alt="Generic placeholder image">
                                     <div class="media-body">
                                         <p><strong>John Doe</strong><span class="n-time text-muted"><i class="icon feather icon-clock m-r-10"></i>5 min</span></p>
                                         <p>New ticket Added</p>
@@ -52,7 +52,7 @@
                             </li>
                             <li class="notification">
                                 <div class="media">
-                                    <img class="img-radius" src="../assets/images/user/avatar-2.jpg" alt="Generic placeholder image">
+                                    <img class="img-radius" src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-2.jpg" alt="Generic placeholder image">
                                     <div class="media-body">
                                         <p><strong>Joseph William</strong><span class="n-time text-muted"><i class="icon feather icon-clock m-r-10"></i>10 min</span></p>
                                         <p>Prchace New Theme and make payment</p>
@@ -61,7 +61,7 @@
                             </li>
                             <li class="notification">
                                 <div class="media">
-                                    <img class="img-radius" src="../assets/images/user/avatar-1.jpg" alt="Generic placeholder image">
+                                    <img class="img-radius" src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-1.jpg" alt="Generic placeholder image">
                                     <div class="media-body">
                                         <p><strong>Sara Soudein</strong><span class="n-time text-muted"><i class="icon feather icon-clock m-r-10"></i>12 min</span></p>
                                         <p>currently login</p>
@@ -70,7 +70,7 @@
                             </li>
                             <li class="notification">
                                 <div class="media">
-                                    <img class="img-radius" src="../assets/images/user/avatar-2.jpg" alt="Generic placeholder image">
+                                    <img class="img-radius" src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-2.jpg" alt="Generic placeholder image">
                                     <div class="media-body">
                                         <p><strong>Joseph William</strong><span class="n-time text-muted"><i class="icon feather icon-clock m-r-10"></i>30 min</span></p>
                                         <p>Prchace New Theme and make payment</p>
@@ -91,7 +91,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right profile-notification">
                         <div class="pro-head">
-                            <img src="../assets/images/user/avatar-1.jpg" class="img-radius" alt="User-Profile-Image">
+                            <img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axgitkq80ad9/b/bucket1/o/uts%2Fimages%2Fuser%2Favatar-1.jpg" class="img-radius" alt="User-Profile-Image">
                             <span>John Doe</span>
                             <a href="auth-signin.html" class="dud-logout" title="Logout">
                                 <i class="feather icon-log-out"></i>
